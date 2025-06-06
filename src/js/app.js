@@ -55,7 +55,7 @@ window.onload = function() {
     includeCover: true,
     // this is the image's url that will be used as a background for the profile cover
     background:
-      "https://hips.hearstapps.com/popularmechanics/assets/16/26/1467144815-starshipenterprise.jpg",
+      "https://cdn.freebiesupply.com/images/large/2x/star-trek-logo-black-and-white.png",
     // this is the url for the profile avatar
     avatarURL: "https://cdn.mos.cms.futurecdn.net/a7UGqgTQZrzhMC32Td84AT.png",
     // social media bar position (left or right)
